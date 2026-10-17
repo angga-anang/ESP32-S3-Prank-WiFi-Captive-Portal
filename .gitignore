@@ -1,0 +1,23 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / Temp files
+__pycache__/
+*.pyc
+*.pyo
+
+# Flash dump binaries (Raw firmware dump from ESP32, unneeded for source builds)
+flash_dump/
